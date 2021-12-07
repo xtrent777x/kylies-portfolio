@@ -6,10 +6,10 @@ exports[`Gallery component matches snapshot 1`] = `
     <h1
       data-testid="h1tag"
     >
-      Portraits
+      cuts
     </h1>
     <p>
-      Portraits of people in my life
+      cuts of people in my life
     </p>
     <div>
       <div
