@@ -56,6 +56,10 @@ function ContactForm() {
         )}
         <button data-testid="button" type="submit">Submit</button>
       </form>
+      <h1>My Contact</h1>
+      <h3>email</h3>
+      <h3>phone</h3>
+      <h3>salon address</h3>
     </section>
   );
 }
